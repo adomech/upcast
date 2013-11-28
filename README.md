@@ -1,4 +1,4 @@
-To Run executate: 
+To Run in Command line: 
 
 php index.php tools index
 
